@@ -2,7 +2,7 @@
 {
     "name": "Allinonebot",
     "description": "ALLINONEBOT",
-    "repository": "https://github.com/stubbornlove-",
+    "repository": "https://github.com/sumit10869",
     "keywords": [
         "telegram bot",
         "pyrogram"
@@ -10,17 +10,17 @@
     "env": {
             "API_ID": {
             "description": "Your API_ID from https://my.telegram.org/apps",
-            "value": "",
+            "value": "22439323",
             "required": true
         },
         "API_HASH": {
             "description": "Your API_HASH from https://my.telegram.org/apps",       
-            "value": "",
+            "value": "e0e203c8be2c2c58b04d0c59fc82f507",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Your Bot token from @Botfather",
-            "value": "",
+            "value": "6584424516:AAHMBo35SMmYgoi-hjPxgMCn_IgkD2DsAhs",
             "required": true
         }
     }
